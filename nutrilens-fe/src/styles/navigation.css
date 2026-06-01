@@ -1,0 +1,42 @@
+.nav-container {
+  background-color: #fff9f0;
+  border-bottom: 1px solid #775555;
+  align-items: center;
+  padding: 25px 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-container ul {
+  margin: 0;
+  padding: 0 15px;
+  display: flex;
+  gap: 20px;
+}
+
+.nav-list {
+  color: #52b788;
+  font-size: larger;
+  font-weight: 400;
+
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.nav-list:hover {
+  color: #2d6a4f;
+}
+
+.nav-list:active {
+  color: #2d6a4f;
+}
+
+.nutrilens-btn {
+  background-color: #2d6a4f;
+  color: #ffffff;
+  border-radius: 40px;
+  padding: 0.5rem 1.4rem;
+  font-weight: 600;
+  border: none;
+  text-decoration: none;
+}

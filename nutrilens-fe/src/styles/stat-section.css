@@ -1,0 +1,44 @@
+.stat-container {
+  height: 190px;
+  border-top: 1px solid black;
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.stat-akurasi {
+  text-align: center;
+  color: #254436;
+}
+
+.stat-akurasi__persentase {
+  font-size: 48px;
+  font-weight: 500;
+}
+
+.stat-akurasi__text {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.stat-price h3 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #254436;
+}
+
+.stat-avail {
+  text-align: center;
+  color: #254436;
+}
+
+.stat-avail__qty {
+  font-size: 48px;
+  font-weight: 500;
+}
+
+.stat-avail__text {
+  font-size: 24px;
+  font-weight: 400;
+}

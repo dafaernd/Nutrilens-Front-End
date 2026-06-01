@@ -1,0 +1,20 @@
+.footer-container {
+  height: 113px;
+  display: flex;
+  padding: 37px 64px;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
+
+  background: linear-gradient(90deg, #2d6a4f 0%, #52b788 100%);
+}
+
+.footer-container p {
+  margin: 0;
+
+  color: #d5d5d5;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

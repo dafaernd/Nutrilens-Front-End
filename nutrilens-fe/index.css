@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", monospace;
+
+  margin: 0px;
+  padding: 0px;
+
+  background-color: #fff9f0 !important;
+}
