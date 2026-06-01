@@ -14,7 +14,7 @@ function HeroSection() {
         </div>
 
         <div className="hero-mockup">
-          <img src="./public/image/nutrilens-mockup.png" alt="nutrilens-mockup" className="hero-image" />
+          <img src="./image/nutrilens-mockup.png" alt="nutrilens-mockup" className="hero-image" />
         </div>
       </div>
     </section>

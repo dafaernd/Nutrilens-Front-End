@@ -12,7 +12,7 @@ function StatSection() {
         </div>
 
         <div className="line">
-          <img src="./public/image/line-stat.png" alt="" />
+          <img src="./image/line-stat.png" alt="" />
         </div>
 
         <div className="stat-price">
@@ -20,7 +20,7 @@ function StatSection() {
         </div>
 
         <div className="line">
-          <img src="./public/image/line-stat.png" alt="" />
+          <img src="./image/line-stat.png" alt="" />
         </div>
 
         <div className="stat-avail">
